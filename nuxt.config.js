@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: '云海加速器手机端',
+    title: '手机端',
     meta: [{
         charset: 'utf-8'
       },
